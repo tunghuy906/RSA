@@ -443,7 +443,7 @@
 			this.btnLoadMessage.Name = "btnLoadMessage";
 			this.btnLoadMessage.Size = new System.Drawing.Size(126, 36);
 			this.btnLoadMessage.TabIndex = 33;
-			this.btnLoadMessage.Text = "Tải phiếu bầu";
+			this.btnLoadMessage.Text = "Tải dữ liệu";
 			this.btnLoadMessage.UseVisualStyleBackColor = true;
 			this.btnLoadMessage.Click += new System.EventHandler(this.btnLoadMessage_Click);
 			// 
