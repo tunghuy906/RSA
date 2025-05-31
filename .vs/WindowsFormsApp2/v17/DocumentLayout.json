@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C08C6DD5-464A-4E12-B87F-9C69F2208414}|WindowsFormsApp2.csproj|c:\\users\\tungh\\downloads\\demochukymursa_nhom5_new\\demochukysorsatinhtoanven_nhom9_new\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C08C6DD5-464A-4E12-B87F-9C69F2208414}|WindowsFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08C6DD5-464A-4E12-B87F-9C69F2208414}|WindowsFormsApp2.csproj|C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08C6DD5-464A-4E12-B87F-9C69F2208414}|WindowsFormsApp2.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08C6DD5-464A-4E12-B87F-9C69F2208414}|WindowsFormsApp2.csproj|C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08C6DD5-464A-4E12-B87F-9C69F2208414}|WindowsFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08C6DD5-464A-4E12-B87F-9C69F2208414}|WindowsFormsApp2.csproj|C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C08C6DD5-464A-4E12-B87F-9C69F2208414}|WindowsFormsApp2.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08C6DD5-464A-4E12-B87F-9C69F2208414}|WindowsFormsApp2.csproj|C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08C6DD5-464A-4E12-B87F-9C69F2208414}|WindowsFormsApp2.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08C6DD5-464A-4E12-B87F-9C69F2208414}|WindowsFormsApp2.csproj|C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08C6DD5-464A-4E12-B87F-9C69F2208414}|WindowsFormsApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:04:57.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAawFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:58:28.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKyMuRSA_Nhom5_new\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\DemoChuKyMuRSA_Nhom5_new\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:56:46.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAYwL0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:16:08.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFABAAAAAAAAAAAEwF0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:16:08.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\tungh\\Downloads\\DemoChuKyMuRSA_Nhom5_new\\DemoChuKySoRSATinhToanVen_Nhom9_new\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:16:09.257Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
